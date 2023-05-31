@@ -27,9 +27,10 @@ func timeConvertion(s string) string {
 	return fmt.Sprintf("%02s:%02s:%02s", strconv.Itoa(intHh), mm, ss)
 }
 
+/*
 func main() {
 	result1 := timeConvertion("12:40:22AM")
 	fmt.Println(result1)
 	result2 := timeConvertion("07:05:45PM")
 	fmt.Println(result2)
-}
+}*/

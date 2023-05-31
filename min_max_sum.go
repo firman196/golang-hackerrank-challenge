@@ -42,7 +42,7 @@ func miniMaxSum2(arr []int32) {
 	fmt.Println(arrSum[0], arrSum[len(arr)-1])
 }
 
-func main() {
+/*func main() {
 	miniMaxSum1([]int32{5, 5, 5, 5, 5})
 	miniMaxSum2([]int32{5, 5, 5, 5, 5})
-}
+}*/
